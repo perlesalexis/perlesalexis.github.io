@@ -4,13 +4,13 @@ Bienvenue sur mon portfolio ! Ce site présente mes projets, compétences, et ex
 
 ## 🌟 À propos de moi
 
-Je suis PERLES Alexis, étudiant en BUT Informatique, spécialisé dans le développement d'applications. Ce portfolio regroupe les projets que j'ai réalisés pendant mes études et dans mes temps libres.
+Je suis PERLES Alexis, étudiant en BUT Informatique, spécialisé dans le développement d'applications.
 
 ---
 
 ## 🚀 Fonctionnalités
 
-- Présentation de mes projets académiques et personnels.
+- Présentation de mes projets académiques.
 - Section "À propos" avec une description de mon parcours.
 - Informations de contact pour les collaborations ou opportunités professionnelles.
 
@@ -29,10 +29,8 @@ Ce portfolio a été conçu avec les technologies suivantes :
 
 ## 📂 Structure du repository
 
-- **`index.html`** : Page d'accueil du portfolio.
-- **`style.css`** : Feuille de style personnalisée.
-- **`/images`** : Dossier contenant les images du portfolio (logos, captures d'écran, etc.).
-- **`/js`** : Dossier pour les fichiers JavaScript (si utilisé).
+- **`src`** : Code source.
+- **`ressources`** : Contient le css et les images utilisées.
 
 ---
 
